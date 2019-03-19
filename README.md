@@ -7,3 +7,5 @@ BiomeSTL will serve as a digital catalyst to achieve the biodiversity targets of
 **BiodiverseCity St. Louis** is a community initiative to promote, protect and plan for biodiversity throughout the greater St. Louis region. Learn more about the initiative [here](http://www.missouribotanicalgarden.org/sustainability/sustainability/biodiversecity-st.-louis.aspx)
 
 **OneSTL** is a plan for sustainable development for the St. Louis region. Learn more about the OneSTL Sustainability Plan [here](http://www.onestl.org/) 
+
+Check out BiomeStl on [iNaturalist!](https://www.inaturalist.org/projects/biomestl-58757d44-975f-41e1-b2a4-bbf8864a7384) 
