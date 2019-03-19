@@ -1,4 +1,4 @@
-### This site will be a resource to learn more about the technology behind BiomeSTL. 
+### Learn more about the technology powering BiomeSTL and get involved.
 
 BiomeSTL will serve as a digital catalyst to achieve the biodiversity targets of OneSTL. BiomeSTL is brought to you by BiodiverseCity St. Louis.
 
