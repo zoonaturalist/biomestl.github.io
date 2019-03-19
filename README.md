@@ -1,6 +1,4 @@
-# Welcome!
-
-This site will be a resource to learn more about the technical components and implementation of the BiomeSTL project. 
+### This site will be a resource to learn more about the technical components and implementation of the BiomeSTL project. 
 
 BiomeSTL will serve as a digital catalyst to achieve the biodiversity targets of OneSTL. BiomeSTL is brought to you by BiodiverseCity St. Louis.
 
