@@ -9,3 +9,12 @@ BiomeSTL will serve as a digital catalyst to achieve the biodiversity targets of
 **OneSTL** is a plan for sustainable development for the St. Louis region. Learn more about the OneSTL Sustainability Plan [here](http://www.onestl.org/) 
 
 Check out BiomeSTL on [iNaturalist](https://www.inaturalist.org/projects/biomestl-58757d44-975f-41e1-b2a4-bbf8864a7384)!
+
+BiomeSTL currently has six working groups:
+  - Science & Research Team
+  - Technology Team
+  - Habitat Action Projects Team
+  - Citizen Science & Education Team
+  - City/County Adisory Team
+  - Buisness Community Team
+Check out the links above for info on how to get involved.
