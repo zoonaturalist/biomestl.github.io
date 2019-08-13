@@ -16,5 +16,5 @@ BiomeSTL currently has six working groups:
   - Habitat Action Projects Team
   - Citizen Science & Education Team
   - City/County Adisory Team
-  - Buisness Community Team
+  - Business Community Team
 Check out the links above for info on how to get involved.
