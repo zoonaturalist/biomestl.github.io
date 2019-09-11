@@ -1,4 +1,4 @@
-### Learn more about the technology powering BiomeSTL - and [get involved](https://github.com/biomestl)!
+### What is Citizen Science!
 
 BiomeSTL will serve as a digital catalyst to achieve the biodiversity targets of OneSTL. BiomeSTL is brought to you by BiodiverseCity St. Louis.
 
